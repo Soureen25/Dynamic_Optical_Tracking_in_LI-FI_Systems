@@ -1,1 +1,1 @@
-# Dynamic_Optical_Tracking_in_LI-FI_Systems
+# Intermidiate Prototype Implementing Dynamic Optical Tracking in LI-FI Systems
