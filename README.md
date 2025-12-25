@@ -101,5 +101,11 @@ Instrumentation and Electronics Engineering Student
 ##  Acknowledgements
 Thanks to online technical communities and simulation tools that supported the development of this project.
 
+---
+
+##  License
+This project is licensed under the **MIT License** – free to use, modify, and distribute with attribution.
+
+
 https://www.tinkercad.com/things/gSSDZFEf3xi-li-fi-2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
 <img width="1913" height="755" alt="image" src="https://github.com/user-attachments/assets/ca04d387-b950-41fc-8726-bad3e8a9c82b" />
