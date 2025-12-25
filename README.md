@@ -94,7 +94,7 @@ The complete circuit and code were tested using **TinkerCAD Circuits**, ensuring
 
 ##  Author
 **Soureen Majumder**  
-Electronics Engineering Student  
+Instrumentation and Electronics Engineering Student  
 
 ---
 
