@@ -1,0 +1,6 @@
+TinkerCAD Simulation Link:
+https://www.tinkercad.com/things/gSSDZFEf3xi-li-fi-2/editel
+
+Description:
+This simulation demonstrates real-time optical tracking
+using LDR feedback and servo-controlled alignment.
